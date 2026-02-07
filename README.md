@@ -1,2 +1,2 @@
-# LogicadeProgramacao
-Algoritmos Aleatorios
+# programming logic
+random algorithms
